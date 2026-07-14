@@ -18,7 +18,7 @@ defineEmits<{
 
 <template>
   <section class="status-panel">
-    <p class="status-eyebrow">Teto Benchmark</p>
+    <p class="status-eyebrow">TetoBenchmark</p>
     <h1 class="status-title">TetoBenchmark</h1>
     <p class="status-phase">{{ phase }}</p>
     <p class="status-detail">{{ detail }}</p>

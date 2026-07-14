@@ -3,7 +3,7 @@
   "configVersion": 1,
   "workspaces": {
     "": {
-      "name": "teto-performance-tester",
+      "name": "tetobenchmark",
       "dependencies": {
         "gifuct-js": "^2.1.2",
         "three": "^0.180.0",
